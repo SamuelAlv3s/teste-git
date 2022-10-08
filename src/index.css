@@ -10,3 +10,7 @@
   --body: #f8f8f8;
   --info: #bbbbbb;
 }
+
+body{
+  font-family: "Imprima",sans-serif;
+}
